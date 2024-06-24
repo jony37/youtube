@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+/* Navbar */
+.containerr {
+    max-width: 1470px;
+    margin: 0 auto;
+    margin-top: 10px;
+
+
+
+}
+
+.menu {
+    color: #000000;
+}
+
+.nav-ikon {
+    width: 35%; 
+    height: 80%;
+    padding-left: 32px;
+}
+
+#btn {
+    border: none;
+}
